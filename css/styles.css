@@ -1,0 +1,10 @@
+body {
+  background-color: rgb(245, 245, 66);
+  text-align: center;
+}
+
+a {
+  text-align: center;
+  color: green;
+  margin: 0 10px;
+}
